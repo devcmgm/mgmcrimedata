@@ -1,0 +1,16 @@
+  880  dotnet new console -o mgmcrimereader
+  887  dotnet add package Google.Apis
+  888  dotnet add package Google.Apis.Auth
+  889  dotnet add package Google.Apis.Core
+  890  dotnet add package Google.Apis.Gmail.v1
+  891  dotnet add package Newtonsoft.Json
+  902  dotnet add package System.IO
+  903  dotnet add package System.Net.Http
+  904  dotnet add package System.Runtime
+  905  dotnet add package System.Security.Cryptography.Algorithms
+  906  dotnet add package System.Security.Cryptography.Encoding
+  907  dotnet add package System.Security.Cryptography.Primitives
+  908  dotnet add package System.Security.Cryptography.X509Certificates
+  910  dotnet add package System.IO
+  912  dotnet --list-sdks
+  913  dotnet run

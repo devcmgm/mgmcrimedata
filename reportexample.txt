@@ -1,0 +1,1649 @@
+56
+56
+55
+55
+53
+53
+44
+39
+36
+35
+29
+dayname    StreetName                    
+Friday     W  FAIRVIEW AV                    16
+            COLISEUM BLVD                    12
+           S  COURT ST                        9
+           S  PERRY ST                        9
+            FEDERAL DR                        8
+            MT MEIGS RD                       7
+            GILMER AV                         6
+            ROSA L PARKS AV                   6
+            HILL ST                           5
+            PINE ST                           5
+           S  DECATUR ST                      5
+            ADAMS AV                          4
+            COMMERCE ST                       4
+            FELDER AV                         4
+            GIBBS DR                          4
+            LOWER WETUMPKA RD                 4
+            MYLES ST                          4
+            SPRUCE ST                         4
+            STUART ST                         4
+            TALLAPOOSA ST                     4
+           N  RIPLEY ST                       4
+           S  HULL ST                         4
+           S  MCDONOUGH ST                    4
+            CHERRY ST                         3
+            CLOVERDALE RD                     3
+            HIGHLAND AV                       3
+            MADISON AV                        3
+            PALMETTO ST                       3
+            SIERRA ST                         3
+           E  FAIRVIEW AV                     3
+            2ND ST                            2
+            4TH ST                            2
+            ALMA DR                           2
+            ARTHUR ST                         2
+            ASHLEY AV                         2
+            AUSTIN ST                         2
+            BOYCE ST                          2
+            BRAGG ST                          2
+            BROOKVIEW DR                      2
+            CARTER HILL RD                    2
+            CEDAR ST                          2
+            CHANDLER ST                       2
+            CHASE PARK DR                     2
+            COLUMBIA AV                       2
+            DEXTER AV                         2
+            EDWARD ST                         2
+            GASTON AV                         2
+            GIBBS CIR                         2
+            GIBSON ST                         2
+            GILMER CT                         2
+            HALE ST                           2
+            HARRIS ST                         2
+            HIGH ST                           2
+            HILLDALE CT                       2
+            MAYFAIR RD                        2
+            MILL ST                           2
+            MILTON RD                         2
+            MULBERRY ST                       2
+            OAKBROOK CT                       2
+            PERSHING ST                       2
+            PLUM ST                           2
+            POLK ST                           2
+            ROSA L PARKS AVE                  2
+            SOUTHMONT DR                      2
+            STARR ST                          2
+            SUMTER AV                         2
+            WAYNE ST                          2
+            WELLINGTON RD                     2
+            WESTCOTT ST                       2
+            WILLENA AV                        2
+            WINONA AV                         2
+           & DAY                              2
+           E  FAIRVIEW AVE                    2
+           E  FOURTH ST                       2
+           E  JEFFERSON ST                    2
+           E  VANDIVER BLVD                   2
+           S  CAPITOL PKWY                    2
+           S  HOLT ST                         2
+           S  HOPPER ST                       2
+           S  LAWRENCE ST                     2
+           S  UNION ST                        2
+           W  SHAWNEE DR                      2
+            &  GIBBS CIR                      1
+            &  LORING ST                      1
+            &  PONCE DE LEON AVE              1
+            & N  UNION ST                     1
+            3RD ST                            1
+            5TH ST                            1
+            ADAMS AVE                         1
+            AGNEW ST                          1
+            ARBA ST                           1
+            AUDUBON RD                        1
+            AUGUSTA AV                        1
+            BAFFIN DR                         1
+            BIBB ST                           1
+            BOONE ST                          1
+            BREVARD AV                        1
+            BREWTON ST                        1
+            BROADWAY ST                       1
+            BROOKTREE DR                      1
+            BUFORD ST                         1
+            CABOT ST                          1
+            CAPITOL AV                        1
+            CAPITOL PKWY CT                   1
+            CARLO ST                          1
+            CASTLEBROOK DR                    1
+            CENTENNIAL CIR                    1
+            CENTENNIAL WAY                    1
+            CHESTNUT ST                       1
+            CLAY ST                           1
+            CLAYTON PARK                      1
+            CLAYTON ST                        1
+            COLLEGE CT                        1
+            COLUMBIA AVE                      1
+            COTTON CT                         1
+            COURTLAND DR                      1
+            CROSSWAY DR                       1
+            CROUSON ST                        1
+            DALRAIDA PL                       1
+            DALRAIDA RD                       1
+            DEXTER AVE                        1
+            DORIS CIR                         1
+            DYAS DR                           1
+            EARL PL                           1
+            EARLY ST                          1
+            EAST ST                           1
+            EDGAR D NIXON AVE                 1
+            ENSLEN ST                         1
+            FAIRGROUND RD                     1
+            FARO DR                           1
+            FERNDALE CT                       1
+            FLINTSTONE CT                     1
+            FORBES DR                         1
+            GARDEN ST                         1
+            GEORGE B EDMONDSON DR             1
+            GIRARD ST                         1
+            GUNTER PARK DR E                  1
+            HERRON ST                         1
+            HOLCOMBE ST                       1
+            HUGH ST                           1
+            JOHNSON ST                        1
+            LAKE ST                           1
+            LANIER LN                         1
+            LIBERTY ST                        1
+            MAY ST                            1
+            MCELVY ST                         1
+            MCKINLEY AV                       1
+            MICHIGAN CT                       1
+            MIDLANE CT                        1
+            MILLARD FULLER DR                 1
+            MOBILE DR                         1
+            MONTEZUMA RD                      1
+            MOORELAND RD                      1
+            MYRTLE ST                         1
+            NARROW LANE RD                    1
+            NORMAN BRIDGE RD                  1
+            NORTH PASS RD                     1
+            OAK ST                            1
+            OAKLAND ST                        1
+            OCONEE DR                         1
+            PARK AV                           1
+            PELZER AVE                        1
+            PINE RIDGE RD                     1
+            PONCE DE LEON AV                  1
+            POPLAR ST                         1
+            POTOMAC AV                        1
+            ROSEDALE DR                       1
+            SANTEE DR                         1
+            SAYRE ST                          1
+            SPEIGLE ST                        1
+            ST CHARLES AV                     1
+            STELLA ST                         1
+            STEPHENS ST                       1
+            STONE ST                          1
+            TAFT ST                           1
+            TEXAS ST                          1
+            TREMONT ST                        1
+            TURNER PL                         1
+            UPPER WETUMPKA RD                 1
+            WATSON AV                         1
+            WEST HAVEN LN                     1
+            WEST ST                           1
+            WHITEHALL PKWY                    1
+            WILMINGTON RD                     1
+            YANCEY AV                         1
+            YOUGENE ST                        1
+           & MULBERRY                         1
+           & W FAIRVIEW                       1
+           AVE                                1
+           E  CANYON CT                       1
+           E  EDGEMONT AV                     1
+           E  PARK AV                         1
+           E  THIRD ST                        1
+           E BALTIMORE AVE                    1
+           E BOULEVARD                        1
+           FAIRVIEW AVE                       1
+           HEATH ST                           1
+           LEE ST                             1
+           MILDRED ST                         1
+           N  CALIFORNIA ST                   1
+           N  CAPITOL PKWY                    1
+           N  COURT ST                        1
+           N  DECATUR ST                      1
+           N  MADISON TER                     1
+           N  MCDONOUGH ST                    1
+           N  PERRY ST                        1
+           NORTH GAP                          1
+           RD  &  AUGUSTA AVE                 1
+           RYAN ST                            1
+           S  FORBES DR                       1
+           S  GEORGETOWN DR                   1
+           S  HAARDT DR                       1
+           S  JACKSON ST                      1
+           S  LINCOLN TER                     1
+           S  MADISON TER                     1
+           S  MARYLAND ST                     1
+           ST                                 1
+           ST  AND HUTCHINSON STREET          1
+           UNIVERSITY DR                      1
+           W  JEFFERSON ST                    1
+           W  MICHIGAN AVE                    1
+           W  SECOND ST                       1
+Monday     W  FAIRVIEW AV                    18
+            COLISEUM BLVD                    10
+            LOWER WETUMPKA RD                 9
+            PLUM ST                           8
+            HIGHLAND AV                       7
+            PINE ST                           7
+            CARTER HILL RD                    6
+            FEDERAL DR                        6
+           S  DECATUR ST                      6
+            CHASE PARK DR                     5
+            GIBBS DR                          5
+            MADISON AV                        5
+            ROSA L PARKS AV                   5
+            EDGAR D NIXON AV                  4
+            LOCUST ST                         4
+            NORMAN BRIDGE RD                  4
+            STUART ST                         4
+            UPPER WETUMPKA RD                 4
+           E  PARK AV                         4
+           S  COURT ST                        4
+           S  HULL ST                         4
+            BROADWAY ST                       3
+            CONLEY CIR                        3
+            HIGH ST                           3
+            MOBILE RD                         3
+            OAK ST                            3
+            SPEIGLE ST                        3
+            TYLER RD                          3
+            WILLENA AV                        3
+           E  VANDIVER BLVD                   3
+           S  HOLT ST                         3
+           S  UNION ST                        3
+            2ND ST                            2
+            AMOS ST                           2
+            BILTMORE AVE                      2
+            BRAGG ST                          2
+            CAPITOL PKWY CT                   2
+            CHAPPELL DR                       2
+            CHERRY ST                         2
+            CHISHOLM ST                       2
+            CLAYTON ST                        2
+            CLOVERDALE RD                     2
+            COTTON CT                         2
+            COUNTRY CLUB DR                   2
+            CROUSON ST                        2
+            DAY ST                            2
+            DESTIN ST                         2
+            DEXTER AV                         2
+            DORIS CIR                         2
+            FAIRGROUND RD                     2
+            FELDER AV                         2
+            GIBSON CT                         2
+            GILMER CT                         2
+            HIGHPOINT RD                      2
+            HILLDALE DR                       2
+            HOWARD ST                         2
+            HUGH ST                           2
+            LAKE ST                           2
+            LYNDLE RD                         2
+            MARTHA ST                         2
+            MIDWAY ST                         2
+            MILLER ST                         2
+            MONTEZUMA RD                      2
+            MONTGOMERY ST                     2
+            MONTROSE AV                       2
+            NICROSI ST                        2
+            NORTH PASS RD                     2
+            PALMETTO ST                       2
+            PELZER AV                         2
+            SOUTHMONT DR                      2
+            SPRUCE ST                         2
+            STARR ST                          2
+            TALLAPOOSA ST                     2
+            VICTOR TULANE CIR                 2
+            WOODLEY TER                       2
+            YARBROUGH ST                      2
+           E  FOURTH ST                       2
+           FINLEY                             2
+           MAGNOLIA                           2
+           N  CALIFORNIA ST                   2
+           N  PERRY ST                        2
+           S  CAPITOL PKWY                    2
+           S  HOPPER ST                       2
+           S  LEWIS ST                        2
+           S  PERRY ST                        2
+           UNIVERSITY DR                      2
+           W  EDGEMONT AV                     2
+            &  DAY STREET RD                  1
+            &  HILL ST                        1
+            &  MYRTLE ST                      1
+            & S  RIPLEY ST                    1
+            4TH ST                            1
+            5TH ST                            1
+            AARON ST                          1
+            ADAMS AV                          1
+            ALABAMA RIVER PKWY                1
+            ARTHUR ST                         1
+            AUDUBON RD                        1
+            AUGUSTA AV                        1
+            BEARDSLEY DR                      1
+            BELVIEW ST                        1
+            BIBB ST                           1
+            BOONE ST                          1
+            BOYCE ST                          1
+            BREWTON ST                        1
+            BROOKTREE DR                      1
+            BROOKVIEW DR                      1
+            BRYAN ST                          1
+            BUFORD ST                         1
+            BURTON AV                         1
+            CALLOWAY ST                       1
+            CARLISLE ST                       1
+            CASTLEBROOK DR                    1
+            CEDAR ST                          1
+            CENTENNIAL WAY                    1
+            CHELSEA DR                        1
+            CLANTON AV                        1
+            CLARENCE LEE DR                   1
+            CLARKE ST                         1
+            CLAY ST                           1
+            CLINTON ST                        1
+            COLUMBUS ST                       1
+            COMMERCE ST                       1
+            CONG W L DICKINSON DR             1
+            COOK AV                           1
+            COTTON ST                         1
+            DALRAIDA PKWY                     1
+            DICKERSON ST                      1
+            DYAS CT                           1
+            EARLY ST                          1
+            EASTERN RIDGE CT                  1
+            EDWARD ST                         1
+            ELDER ST                          1
+            EMPIRE CT                         1
+            EMPIRE RD                         1
+            EMPIRE TER                        1
+            ERSKINE ST                        1
+            EWELL ST                          1
+            FLINTSTONE CT                     1
+            FLOOD ST                          1
+            FORBES DR                         1
+            FOREST AV                         1
+            FREDERICK AV                      1
+            GARDENDALE DR                     1
+            GARLAND DR                        1
+            GASTON AV                         1
+            GIBBS CIR                         1
+            GIBBS CT                          1
+            GIBSON ST                         1
+            GREENVILLE ST                     1
+            HALE ST                           1
+            HANOVER DR                        1
+            HARMON ST                         1
+            HERRON ST                         1
+            HIGHLAND AVE                      1
+            HILL ST                           1
+            INGLE CT                          1
+            JAMES AV                          1
+            KEATING DR                        1
+            KING COLE DR                      1
+            LEBRON RD                         1
+            LEXINGTON RD                      1
+            LIBERTY ST                        1
+            MADISON AVE                       1
+            MALVERN ST                        1
+            MANLEY DR                         1
+            MAXWELL BLVD                      1
+            MEEHAN ST                         1
+            MILLARD FULLER DR                 1
+            MONROE ST                         1
+            MONTCLAIR DR                      1
+            MONTVIEW CT                       1
+            MT MEIGS RD                       1
+            MYLES ST                          1
+            NOBLE AV                          1
+            NORMAN BRIDGE CT                  1
+            NORTHERN BLVD                     1
+            OAKBROOK DR                       1
+            OLIVE ST                          1
+            PARK AVE                          1
+            PERCY DR                          1
+            PICKETT ST                        1
+            POLK ST                           1
+            PONCE DE LEON AVE                 1
+            POPLAR ST                         1
+            POWELL LN                         1
+            RYAN ST                           1
+            SHADY ST                          1
+            SPRINGHILL AV                     1
+            TERMINAL RD                       1
+            THOMAS CT                         1
+            THORN PL                          1
+            TRAVIS ST                         1
+            TUSCALOOSA ST                     1
+            TYLER CT                          1
+            UNIVERSITY DR N                   1
+            VIRGINIA AV                       1
+            WADE ST                           1
+            WASHINGTON AV                     1
+            WELLINGTON RD                     1
+            WILMINGTON RD                     1
+           @ N COURT ST                       1
+           DORIS CIR                          1
+           E  JEFFERSON ST                    1
+           E EDGEMONT AVE                     1
+           EDGEWORTH DR                       1
+           JOHNSON AVE                        1
+           JULIETTE ST                        1
+           LAWRENCE ST  & E  JEFFERSON ST     1
+           N  COUNTRY CLUB DR                 1
+           N  DECATUR ST                      1
+           N  MARYLAND ST                     1
+           N  RIPLEY ST                       1
+           N  YARBROUGH CT                    1
+           NORTH GAP                          1
+           RD  &  MICHIGAN AVE                1
+           S  FORBES DR                       1
+           S  GOLDTHWAITE ST                  1
+           S  JACKSON ST                      1
+           S  LAWRENCE ST                     1
+           S  MADISON TER                     1
+           S  MCDONOUGH ST                    1
+           S  OAKVIEW CT                      1
+           S MCDONOUGH ST                     1
+           ST & S. DECATUR ST                 1
+           UNION ST  &  ARBA ST               1
+           W  FAIRVIEW AVE                    1
+           W  SHAWNEE DR                      1
+           W LIBERTY ST                       1
+Saturday   W  FAIRVIEW AV                    14
+            PINE ST                          10
+            COLISEUM BLVD                     8
+            FEDERAL DR                        8
+            LOWER WETUMPKA RD                 8
+            CARTER HILL RD                    6
+            MOBILE RD                         6
+            NORMAN BRIDGE RD                  6
+           S  DECATUR ST                      6
+           W  FAIRVIEW AVE                    6
+            HILL ST                           5
+           E  FAIRVIEW AV                     5
+           S  HULL ST                         5
+            CONG W L DICKINSON DR             4
+            FAIRGROUND RD                     4
+            FELDER AV                         4
+            HALL ST                           4
+            MAXWELL BLVD                      4
+            MT MEIGS RD                       4
+            RIGBY ST                          4
+            SPRUCE ST                         4
+           S  COURT ST                        4
+           S  PERRY ST                        4
+           W  FOURTH ST                       4
+            BRAGG ST                          3
+            COMMERCE ST                       3
+            CROUSON ST                        3
+            GIBBS DR                          3
+            HIGHLAND AV                       3
+            MADISON AV                        3
+            MULBERRY ST                       3
+            OAKBROOK DR                       3
+            PERCY DR                          3
+            STUART ST                         3
+            UPPER WETUMPKA RD                 3
+            YARBROUGH ST                      3
+           E  JEFFERSON ST                    3
+           E  WASHINGTON ST                   3
+           UNIVERSITY DR                      3
+            5TH ST                            2
+            BERKSHIRE DR                      2
+            BROADWAY ST                       2
+            CAPITOL AV                        2
+            CHASE PARK DR                     2
+            CHISHOLM ST                       2
+            CLOWER ST                         2
+            DALRAIDA PKWY                     2
+            DYAS DR                           2
+            GARDENDALE DR                     2
+            GIBBS CIR                         2
+            GIBSON ST                         2
+            GILMER CT                         2
+            HANK WAY                          2
+            HIGHLAND AVE                      2
+            HILLDALE DR                       2
+            HUGH ST                           2
+            JOHNSON ST                        2
+            LONGBROOK DR                      2
+            MAGNOLIA CURV                     2
+            MAURY ST                          2
+            OAK ST                            2
+            PLUM ST                           2
+            POPLAR ST                         2
+            ROSA L PARKS AV                   2
+            ROSA L PARKS AVE                  2
+            RYAN ST                           2
+            SHELLY LN                         2
+            SOUTHMONT DR                      2
+            SUMTER AV                         2
+            TALLAPOOSA ST                     2
+            TERRACE AVE                       2
+            YOUGENE ST                        2
+           E  FOURTH ST                       2
+           GUNTER PARK DR                     2
+           N  MCDONOUGH ST                    2
+           N  RIPLEY ST                       2
+           S  CAPITOL PKWY                    2
+           S  HOLT ST                         2
+           S  JACKSON ST                      2
+           S  LAWRENCE ST                     2
+            &  CHISHOLM ST                    1
+            &  FOREST AV                      1
+            &  GIBSON ST                      1
+            &  KING COLE DR                   1
+            &  MAXWELL BLVD                   1
+            &  OAK ST                         1
+            &  PELZER AVE                     1
+            &  STARBROOK DR                   1
+            & W  PARK AVE                     1
+            2ND ST                            1
+            3RD ST                            1
+            ADAMS AVE                         1
+            ALMA DR                           1
+            AMANDA LOOP                       1
+            ARTHUR ST                         1
+            BANKHEAD AV                       1
+            BANKHEAD AVE                      1
+            BARKSDALE ST                      1
+            BELFAST ST                        1
+            BRIARBROOK DR                     1
+            BROADVIEW ST                      1
+            BROOKVIEW DR                      1
+            BUFORD ST                         1
+            CABOT ST                          1
+            CAHABA ST                         1
+            CANOOCHEE DR                      1
+            CEDAR AV                          1
+            CEDAR ST                          1
+            CELINA PL                         1
+            CHAMPION ST                       1
+            CHASE ST                          1
+            CHELSEA DR                        1
+            CHERRY ST                         1
+            CLARKE ST                         1
+            CLAYTON ST                        1
+            CLEVELAND CT                      1
+            CLUBVIEW ST                       1
+            COLISEUM PKWY                     1
+            COLLEGE ST                        1
+            COLUMBIA AV                       1
+            CONRAD ST                         1
+            COTTON ST                         1
+            COURTLAND DR                      1
+            COX LN                            1
+            CRESCENT RD                       1
+            CROSSWAY DR                       1
+            DALRAIDA CT                       1
+            DAY ST                            1
+            DEXTER AV                         1
+            EARLY ST                          1
+            EAST ST                           1
+            EDWARD J NETTLES LN               1
+            ELM AV                            1
+            EMERSON ST                        1
+            EMORY FOLMAR BLVD                 1
+            EMPIRE RD                         1
+            ENSLEN ST                         1
+            ERSKINE ST                        1
+            FARO CT                           1
+            FINLEY AV                         1
+            FLINTSTONE CT                     1
+            FORBES DR                         1
+            GILMER AV                         1
+            GLORIA CT                         1
+            GREENVILLE ST                     1
+            GRENADA DR                        1
+            HANOVER DR                        1
+            HARMON ST                         1
+            HAZEL HEDGE LN                    1
+            HOLCOMBE ST                       1
+            HOUSER ST                         1
+            HOWARD ST                         1
+            JULIA ST                          1
+            KING COLE DR                      1
+            LOCUST ST                         1
+            LUCY ST                           1
+            LYERLY LN                         1
+            MCKINLEY AV                       1
+            MICHIGAN AV                       1
+            MIDWAY CT                         1
+            MIDWAY ST                         1
+            MILL ST                           1
+            MILLARD FULLER DR                 1
+            MILTON RD                         1
+            MOLTON ST                         1
+            MONTERO DR                        1
+            MONTGOMERY ST                     1
+            MORGAN AV                         1
+            NARROW LANE RD                    1
+            NORMAN BRIDGE CT                  1
+            NORTH PASS RD                     1
+            NORTHERN BLVD                     1
+            OAKLAND ST                        1
+            OLIVE ST                          1
+            PARK AV                           1
+            PARK PL                           1
+            PELZER AV                         1
+            PELZER AVE                        1
+            PLEASANT AV                       1
+            POLK ST                           1
+            RHODES ST                         1
+            RIDGEMONT AV                      1
+            SKYLINE AV                        1
+            SMYTHE ST                         1
+            SPEIGLE ST                        1
+            SPRINGHILL AV                     1
+            ST CHARLES AV                     1
+            STELLA ST                         1
+            SUWANEE DR                        1
+            TEXAS ST                          1
+            THOMAS CT                         1
+            TRACTION AV                       1
+            TURNER PL                         1
+            UPCHURCH CIR                      1
+            VANDIVER CT                       1
+            WAYNE ST                          1
+            WESTMORELAND AV                   1
+            WHITMAN ST                        1
+            WILLENA AV                        1
+            WINNIE ST                         1
+            WOODBROOK DR                      1
+            WOODROW ST                        1
+            YANCEY AV                         1
+           / FOREST AVE                       1
+           @ E FAIRVIEW AVE                   1
+           AVE                                1
+           BROADWAY ST                        1
+           CAPITOL AVE                        1
+           CENTER DR                          1
+           E  PARK AV                         1
+           E  SHAWNEE DR                      1
+           E  SIXTH ST                        1
+           E  THIRD ST                        1
+           FAIRVIEW AVE  &  GILMER AVE        1
+           FAIRVIEW AVE  & S  PERRY ST        1
+           HILLMAN CT                         1
+           LN                                 1
+           MAURY DR                           1
+           N  CAPITOL PKWY                    1
+           N  COUNTRY CLUB DR                 1
+           N  COURT ST                        1
+           N  DECATUR ST                      1
+           N  LEWIS ST                        1
+           NORTH GAP                          1
+           PARKS AVE  &  EARLY ST             1
+           S  CALIFORNIA ST                   1
+           S  FORBES DR                       1
+           S  GEORGETOWN DR                   1
+           S  HAARDT DR                       1
+           S  HOPPER ST                       1
+           S  UNION ST                        1
+           UNDERWOOD ST                       1
+           W  EDGEMONT AV                     1
+           W  EDGEMONT AVE                    1
+           W  JEFF DAVIS AV                   1
+           W  JEFFERSON ST                    1
+           W  PARK AV                         1
+Sunday     W  FAIRVIEW AV                    14
+            COLISEUM BLVD                    11
+            HALL ST                          11
+            FEDERAL DR                       10
+            LOWER WETUMPKA RD                10
+            PINE ST                           9
+           S  PERRY ST                        8
+            CARTER HILL RD                    6
+            PLUM ST                           6
+            COMMERCE ST                       5
+            ROSA L PARKS AV                   5
+            UPPER WETUMPKA RD                 5
+            CHASE PARK DR                     4
+            CONG W L DICKINSON DR             4
+            CONRAD ST                         4
+            GIBSON ST                         4
+            MADISON AV                        4
+            OAK ST                            4
+            PALMETTO ST                       4
+            TEXAS ST                          4
+            VICTOR TULANE CIR                 4
+            YARBROUGH ST                      4
+           E  FAIRVIEW AV                     4
+           S  COURT ST                        4
+           S  HOLT ST                         4
+           W  FAIRVIEW AVE                    4
+            4TH ST                            3
+            EDGAR D NIXON AV                  3
+            FAIRGROUND RD                     3
+            FELDER AV                         3
+            GIBBS DR                          3
+            MADISON AVE                       3
+            MARSHALL ST                       3
+            NORMAN BRIDGE RD                  3
+            OAKBROOK DR                       3
+            PERCY DR                          3
+           N  RIPLEY ST                       3
+           S  HULL ST                         3
+           S  LAWRENCE ST                     3
+           S  UNION ST                        3
+            &  GIBBS DR                       2
+            2ND ST                            2
+            ARTHUR ST                         2
+            BILTMORE AVE                      2
+            BROADWAY ST                       2
+            CAPITOL PKWY CT                   2
+            CENTENNIAL CIR                    2
+            CENTENNIAL WAY                    2
+            CHISHOLM ST                       2
+            CLOVERDALE RD                     2
+            DAY ST                            2
+            GEORGIA ST                        2
+            GILMER AV                         2
+            HAZEL HEDGE LN                    2
+            HILL ST                           2
+            LOCUST ST                         2
+            MAXWELL BLVD                      2
+            MIDWAY ST                         2
+            MOBILE RD                         2
+            MT MEIGS RD                       2
+            PELZER AV                         2
+            ROSA L PARKS AVE                  2
+            SOUTHMONT DR                      2
+            SPEIGLE ST                        2
+            TALLAPOOSA ST                     2
+            WAYNE ST                          2
+            WILLENA AV                        2
+            WINONA AV                         2
+           E  PARK AV                         2
+           E  SIXTH ST                        2
+           E  WASHINGTON ST                   2
+           N  CAPITOL PKWY                    2
+           N  MCDONOUGH ST                    2
+           S  DECATUR ST                      2
+           S  JACKSON ST                      2
+           UNIVERSITY DR                      2
+           W  FIFTH ST                        2
+           W  JEFF DAVIS AV                   2
+            &  MONROE ST                      1
+            &  POLK ST                        1
+            &  RYAN ST                        1
+            3RD ST                            1
+            6TH ST                            1
+            7TH ST                            1
+            AARON ST                          1
+            ADELINE ST                        1
+            AGNEW ST                          1
+            ALABAMA RIVER PKWY                1
+            ALMA DR                           1
+            AMANDA LN                         1
+            AUGUSTA AV                        1
+            BANKHEAD AV                       1
+            BARKSDALE ST                      1
+            BELVIEW ST                        1
+            BILLINGS ST                       1
+            BOOKER ST                         1
+            BOONE ST                          1
+            BOYCE ST                          1
+            BRIARBROOK DR                     1
+            BROADVIEW ST                      1
+            CALLOWAY ST                       1
+            CAPITOL AV                        1
+            CAPRI ST                          1
+            CARLISLE ST                       1
+            CHAPMAN ST                        1
+            CHELSEA DR                        1
+            CHERRY ST                         1
+            CLANTON AV                        1
+            CLEVELAND CT                      1
+            CLINTON ST                        1
+            CLOWER ST                         1
+            CLUBVIEW ST                       1
+            COLISEUM PKWY                     1
+            COLLEGE ST                        1
+            COLUMBIA AV                       1
+            CONCRETE DR                       1
+            CONLEY CIR                        1
+            COOSA ST                          1
+            COTTON CT                         1
+            COTTON ST                         1
+            COURTLAND DR                      1
+            CROSSWAY DR                       1
+            CROUSON ST                        1
+            CULLEN ST                         1
+            DALRAIDA RD                       1
+            DEXTER AVE                        1
+            DICKERSON ST                      1
+            DORIS CIR                         1
+            DOROTHY ST                        1
+            DUNCAN DR                         1
+            DYAS DR                           1
+            EARLY ST                          1
+            EAST ST                           1
+            ELM ST                            1
+            EMERSON ST                        1
+            EUGENE ST                         1
+            FARO CT                           1
+            FELDER AVE                        1
+            FINLEY AV                         1
+            FOREST AV                         1
+            FRENCH ST                         1
+            GARDEN ST                         1
+            GARDENDALE DR                     1
+            GASTON AV                         1
+            GEORGE B EDMONDSON DR             1
+            GIBBS CIR                         1
+            GILMER AVE                        1
+            GILMER CT                         1
+            GLENMORE RD                       1
+            GLORIA CT                         1
+            GREENVILLE ST                     1
+            GRENADA DR                        1
+            HALE ST                           1
+            HARMON ST                         1
+            HEATH DR                          1
+            HIGHLAND AV                       1
+            HILLDALE DR                       1
+            HILLMAN ST                        1
+            HOUSER ST                         1
+            HUGH ST                           1
+            INGLE DR                          1
+            JONES ST                          1
+            KING COLE DR                      1
+            LANIER LN                         1
+            LEBRON RD                         1
+            LIBERTY ST                        1
+            LONGBROOK DR                      1
+            MCELVY ST                         1
+            MCKINLEY AV                       1
+            MICHAEL ST                        1
+            MICHIGAN AV                       1
+            MILDRED ST                        1
+            MILL ST                           1
+            MILLER ST                         1
+            MILTON RD                         1
+            MONTCLAIR DR                      1
+            MONTEZUMA RD                      1
+            MONTGOMERY ST                     1
+            MYLES ST                          1
+            NARROW LANE RD                    1
+            OAK AV                            1
+            OAKBROOK CT                       1
+            OAKLAND ST                        1
+            OKLAHOMA ST                       1
+            PARK MANOR DR                     1
+            PARKWOOD DR                       1
+            PERDIDO DR                        1
+            PERSONS ST                        1
+            PICKETT ST                        1
+            PINE RIDGE RD                     1
+            PONCE DE LEON AVE                 1
+            POTOMAC AVE                       1
+            RETAIL DR                         1
+            RIGBY ST                          1
+            ROSEDALE DR                       1
+            ROSS ST                           1
+            RYAN ST                           1
+            SANFORD ST                        1
+            SAYRE ST                          1
+            SIERRA ST                         1
+            SPRUCE ST                         1
+            ST CHARLES AV                     1
+            ST CHARLES AVE                    1
+            STARR ST                          1
+            STEPHENS ST                       1
+            TRACTION AV                       1
+            TREMONT ST                        1
+            TYLER RD                          1
+            WEST ST                           1
+            WHITEHALL PKWY                    1
+            WILMINGTON RD                     1
+            WINONA AVE                        1
+            WITHERS ST                        1
+            YANCEY AVE                        1
+           / LOWER WETUMPKA RD                1
+           AMANDA                             1
+           AVE                                1
+           CAPITOL AVE                        1
+           E  CANYON CT                       1
+           E  JEFFERSON ST                    1
+           E  VANDIVER BLVD                   1
+           GARDENDALE RD                      1
+           HARMON ST                          1
+           MAGNOLIA                           1
+           MARSHALL ST                        1
+           MICHIGAN AVE                       1
+           N  ANTON DR                        1
+           N  BAINBRIDGE ST                   1
+           N  GEORGETOWN DR                   1
+           N  LEWIS ST                        1
+           N  LINCOLN TER                     1
+           N  UNION ST                        1
+           NORMAN BRIDGE RD                   1
+           PARKS AV  & W  JEFF DAVIS AV       1
+           PARKS AVE                          1
+           RD                                 1
+           RD  &  NORTHERN BLVD               1
+           S  CAPITOL PKWY                    1
+           S  FLORIDA ST                      1
+           S  MCDONOUGH ST                    1
+           ST                                 1
+           VISTA TERRACE                      1
+           W  CROMWELL ST                     1
+           W  HANNON ST                       1
+           W  PARK AV                         1
+           W  VANDIVER BLVD                   1
+Thursday   W  FAIRVIEW AV                    23
+           S  COURT ST                       11
+            LOWER WETUMPKA RD                10
+            PINE ST                           9
+            GIBBS DR                          8
+           S  DECATUR ST                      8
+            CLOVERDALE RD                     6
+            COLISEUM BLVD                     6
+            MADISON AV                        6
+            FEDERAL DR                        5
+            HALL ST                           5
+           E  VANDIVER BLVD                   5
+            CARTER HILL RD                    4
+            FELDER AV                         4
+            HIGHLAND AV                       4
+            OAK ST                            4
+            RIGBY ST                          4
+           E  EDGEMONT AV                     4
+            6TH ST                            3
+            AARON ST                          3
+            FAIRGROUND RD                     3
+            HILLDALE DR                       3
+            MONTGOMERY ST                     3
+            SPEIGLE ST                        3
+            WESTMORELAND AV                   3
+           N  RIPLEY ST                       3
+           ST                                 3
+           W  FAIRVIEW AVE                    3
+            ALEXANDER ST                      2
+            ARTHUR ST                         2
+            CHASE PARK DR                     2
+            COURTLAND DR                      2
+            CROSSWAY DR                       2
+            DUNBAR ST                         2
+            EDGAR D NIXON AV                  2
+            EDWARD ST                         2
+            EMERSON ST                        2
+            FORBES DR                         2
+            GARDENDALE DR                     2
+            GIBBS CIR                         2
+            GILMER AV                         2
+            GILMER CT                         2
+            GRENADA DR                        2
+            HARRIS ST                         2
+            HILL ST                           2
+            HUGH ST                           2
+            MALVERN ST                        2
+            MARTHA ST                         2
+            MIDWAY ST                         2
+            MULBERRY ST                       2
+            NORMAN BRIDGE RD                  2
+            NORTH GAP LOOP                    2
+            PARKWOOD DR                       2
+            PEBBLEBROOK DR                    2
+            PELZER AV                         2
+            ROSA L PARKS AV                   2
+            RYAN ST                           2
+            SPRUCE ST                         2
+            STELLA ST                         2
+            STUART ST                         2
+            SUWANEE DR                        2
+            TEXAS ST                          2
+            TYLER RD                          2
+            UPCHURCH CIR                      2
+            UPPER WETUMPKA RD                 2
+            VANDIVER CT                       2
+            WATSON AVE                        2
+            WHITING AVE                       2
+            WILLENA AV                        2
+            WILMINGTON RD                     2
+            YARBROUGH ST                      2
+           DAY STREET RD                      2
+           E  FAIRVIEW AV                     2
+           E  SECOND ST                       2
+           N  COUNTRY CLUB DR                 2
+           N  DECATUR ST                      2
+           S  CAPITOL PKWY                    2
+           S  HULL ST                         2
+           S  MADISON TER                     2
+           S  PERRY ST                        2
+           W  JEFF DAVIS AV                   2
+            &  HIGHLAND AVE                   1
+            &  HILL ST                        1
+            &  JORDAN ST                      1
+            &  MILL ST                        1
+            &  POLK ST                        1
+            &  STEPHENS ST                    1
+            &  TALLAPOOSA ST                  1
+            2ND ST                            1
+            3RD ST                            1
+            5TH ST                            1
+            ADAMS AV                          1
+            ADELINE ST                        1
+            AMOS ST                           1
+            ARLINGTON RD                      1
+            ASHLEY AVE                        1
+            BARKSDALE ST                      1
+            BELMONT ST                        1
+            BILTMORE AV                       1
+            BOONE ST                          1
+            BOYCE ST                          1
+            BRAGG ST                          1
+            BREVARD AV                        1
+            BROOKVIEW DR                      1
+            BUFORD ST                         1
+            BURTON AV                         1
+            BUSCH ST                          1
+            CABOT ST                          1
+            CAHABA ST                         1
+            CAMDEN ST                         1
+            CAPITOL AVE                       1
+            CAPITOL PKWY CT                   1
+            CARLTON ST                        1
+            CASTLEBROOK DR                    1
+            CENTENNIAL WAY                    1
+            CHAMPION ST                       1
+            CHAPPELL DR                       1
+            CHESTNUT ST                       1
+            CLANTON AV                        1
+            CLAY ST                           1
+            COLUMBUS ST                       1
+            COMMERCE ST                       1
+            CONG W L DICKINSON DR             1
+            CONLEY CT                         1
+            COTTON ST                         1
+            CRENSHAW CLOSE CT                 1
+            CRESCENT RD                       1
+            CULLMAN ST                        1
+            DALRAIDA PKWY                     1
+            DAY ST                            1
+            DEXTER AV                         1
+            DYAS DR                           1
+            EAST ST                           1
+            ELDER ST                          1
+            EMPIRE CT                         1
+            EWELL ST                          1
+            FARRAR ST                         1
+            FELDER AVE                        1
+            FELDER TER                        1
+            FLOOD ST                          1
+            GARLAND DR                        1
+            GEORGIA ST                        1
+            GIBSON ST                         1
+            GLENMORE RD                       1
+            GLORIA CT                         1
+            GREEN FOREST DR                   1
+            GREENVILLE ST                     1
+            HANK WAY                          1
+            HARMON ST                         1
+            HAZEL HEDGE LN                    1
+            HEUSTESS ST                       1
+            HOBBIE DR                         1
+            HUTCHINSON ST                     1
+            INGLE CT                          1
+            JAMES AV                          1
+            JOHNSON ST                        1
+            KAHN ST                           1
+            LEBRON AV                         1
+            LEBRON RD                         1
+            LEXINGTON RD                      1
+            LIBERTY ST                        1
+            LOCUST ST                         1
+            LONGBROOK DR                      1
+            LUCAS DR                          1
+            LYNDLE RD                         1
+            MADISON AVE                       1
+            MANLEY DR                         1
+            MELROSE ST                        1
+            MICHIGAN CT                       1
+            MILLER ST                         1
+            MIRIAM ST                         1
+            MOBILE DR                         1
+            MOLTON ST                         1
+            MONROE ST                         1
+            MONTCLAIR DR                      1
+            MURRAY ST                         1
+            NORTH PASS RD                     1
+            OAKLAND ST                        1
+            PELHAM ST                         1
+            PERCY DR                          1
+            PLUM ST                           1
+            POLK ST                           1
+            POPLAR ST                         1
+            POTOMAC AV                        1
+            POTOMAC AVE                       1
+            PRINCE GEORGE DR                  1
+            PRINCESS ANN ST                   1
+            ROBINSON ST                       1
+            ROSA L PARKS AVE                  1
+            ROSEDALE DR                       1
+            SAYRE ST                          1
+            SKYLINE AV                        1
+            SOUTHMONT DR                      1
+            STARR ST                          1
+            STEPHENS ST                       1
+            TALLAPOOSA ST                     1
+            TERRACE AV                        1
+            THORN PL                          1
+            TROY ST                           1
+            UNIVERSITY DR N                   1
+            VICTOR TULANE CIR                 1
+            VIRGINIA AV                       1
+            VISTA TERRACE DR                  1
+            VISTA VIEW PL                     1
+            VONORA AV                         1
+            WADE ST                           1
+            WASHINGTON AV                     1
+            WELLINGTON RD                     1
+            WEST ST                           1
+            WESTCOTT ST                       1
+            WESTOVER RD                       1
+            WHITING AV                        1
+            WINONA AV                         1
+            WOODLEY RD                        1
+            WOODLEY TER                       1
+            WOODROW ST                        1
+            YANCEY AV                         1
+            YARBROUGH CIR                     1
+           / W FAIRVIEW AVE                   1
+           @ GREENVILLE STREET                1
+           AMANDA                             1
+           AVENUE L                           1
+           BLVD                               1
+           CHESTNUT ST                        1
+           DAVIS AVE                          1
+           E  FIFTH ST                        1
+           E  FOURTH ST                       1
+           E  JEFF DAVIS AV                   1
+           E  JEFFERSON ST                    1
+           E  PARK AV                         1
+           E  SHAWNEE DR                      1
+           E  SOUTH ST                        1
+           E  THIRD ST                        1
+           FAIRVIEW AVE  &  GASTON AVE        1
+           FAIRVIEW AVE  &  MOORELAND RD      1
+           N  CAPITOL PKWY                    1
+           N  JACKSON ST                      1
+           N  MCDONOUGH ST                    1
+           N LOWER WETUMPKA RD                1
+           NORTH GAP                          1
+           OFF                                1
+           RD                                 1
+           RD  &  KIWANIS ST                  1
+           RIDGEWAY                           1
+           S  GEORGETOWN DR                   1
+           S  HOLT ST                         1
+           S  JACKSON ST                      1
+           S  LAWRENCE ST                     1
+           S  MCDONOUGH ST                    1
+           S  UNION ST                        1
+           S GREYHOUND ST                     1
+           S HOPPER ST                        1
+           UNIVERSITY DR                      1
+           W  HANNON ST                       1
+           W  SHAWNEE DR                      1
+           WATSON AVE                         1
+           WOODLEY RD                         1
+Tuesday    W  FAIRVIEW AV                    20
+           S  COURT ST                       11
+           S  DECATUR ST                      8
+           S  PERRY ST                        8
+            COLISEUM BLVD                     7
+            LOWER WETUMPKA RD                 7
+            FAIRGROUND RD                     6
+            FEDERAL DR                        6
+            PINE ST                           6
+            CARTER HILL RD                    5
+            GIBBS DR                          5
+            HALL ST                           5
+            PELZER AV                         5
+            ROSA L PARKS AV                   5
+           E  FAIRVIEW AV                     5
+            FELDER AV                         4
+            MADISON AV                        4
+            MONTGOMERY ST                     4
+            OAK ST                            4
+            4TH ST                            3
+            CHASE PARK DR                     3
+            COTTON CT                         3
+            FORBES DR                         3
+            GIBSON ST                         3
+            GRAHAM ST                         3
+            HILL ST                           3
+            HILLDALE DR                       3
+            MYLES ST                          3
+            NORMAN BRIDGE RD                  3
+            PICKETT ST                        3
+            RIGBY ST                          3
+            WILLENA AV                        3
+            YARBROUGH ST                      3
+           E  SECOND ST                       3
+           S  CAPITOL PKWY                    3
+           S  JACKSON ST                      3
+           S  UNION ST                        3
+            AARON ST                          2
+            AUSTIN ST                         2
+            BROADVIEW ST                      2
+            BROADWAY ST                       2
+            BUFORD ST                         2
+            CANOOCHEE DR                      2
+            CENTER ST                         2
+            CLOVERDALE RD                     2
+            COLUMBIA AV                       2
+            COMMERCE ST                       2
+            CROUSON ST                        2
+            DALRAIDA PKWY                     2
+            DAY ST                            2
+            DICKERSON ST                      2
+            FOREST AV                         2
+            GIBBS CIR                         2
+            GIBBS CT                          2
+            GILMER CT                         2
+            HUGH ST                           2
+            LOCUST ST                         2
+            LYNDLE RD                         2
+            MAXWELL BLVD                      2
+            MILDRED ST                        2
+            MILL ST                           2
+            MULBERRY ST                       2
+            OAKBROOK DR                       2
+            OAKLAND ST                        2
+            PLUM ST                           2
+            RIDGEMONT AV                      2
+            SIERRA ST                         2
+            STUART ST                         2
+            VISTA TERRACE DR                  2
+            WILMINGTON RD                     2
+            WINONA AV                         2
+           E  FOURTH ST                       2
+           E  VANDIVER BLVD                   2
+           N  CAPITOL PKWY                    2
+           N  MCDONOUGH ST                    2
+           N  RIPLEY ST                       2
+           S  ANTON DR                        2
+           S  HOLT ST                         2
+           S  HOPPER ST                       2
+           S  MCDONOUGH ST                    2
+           W  EDGEMONT AVE                    2
+            &  HALL ST                        1
+            &  PARKWOOD CT                    1
+            &  SIERRA ST                      1
+            3RD ST                            1
+            5TH ST                            1
+            6TH ST                            1
+            ADAMS AV                          1
+            ADAMS AVE                         1
+            AJAX ST                           1
+            AMOS ST                           1
+            ARLINGTON RD                      1
+            ASHLEY AVE                        1
+            BELVIEW ST                        1
+            BIBB ST                           1
+            BILTMORE AV                       1
+            BOYCE ST                          1
+            BRIARBROOK DR                     1
+            BROOKTREE DR                      1
+            BROOKVIEW DR                      1
+            BROUGHTON ST                      1
+            CALLOWAY ST                       1
+            CAPRI ST                          1
+            CARLO ST                          1
+            CATOMA ST                         1
+            CELINA PL                         1
+            CENTENNIAL WAY                    1
+            CENTRAL ST                        1
+            CHAMPION ST                       1
+            CHESTNUT ST                       1
+            CHISHOLM ST                       1
+            CLANTON AV                        1
+            CLEVELAND CT                      1
+            COLISEUM PKWY                     1
+            COLUMBUS ST                       1
+            CONLEY CIR                        1
+            COOK AV                           1
+            CORONA DR                         1
+            COTTON ST                         1
+            CROSSWAY DR                       1
+            DAVIDSON ST                       1
+            DAY STREET RD                     1
+            DEXTER AV                         1
+            DORIS ST                          1
+            DYAS CT                           1
+            EARLY ST                          1
+            EAST ST                           1
+            EDGAR D NIXON AV                  1
+            EDWARD ST                         1
+            ELDER ST                          1
+            ELM ST                            1
+            ERSKINE ST                        1
+            FLINTSTONE CT                     1
+            GEORGE B EDMONDSON DR             1
+            GLEN GRATTAN                      1
+            GREEN FOREST DR                   1
+            GROVE ST                          1
+            HANOVER DR                        1
+            HARMON ST                         1
+            HEATH DR                          1
+            HIGH ST                           1
+            HIGHLAND AVE                      1
+            HOBBIE DR                         1
+            HOLCOMBE ST                       1
+            HOWE ST                           1
+            JAMES AV                          1
+            JOHN BROWN AVE                    1
+            JOHNSON ST                        1
+            LAKE ST                           1
+            LEBRON RD                         1
+            LONDON HOUSE RD                   1
+            LONGBROOK DR                      1
+            MANLEY DR                         1
+            MARSHALL ST                       1
+            MICHIGAN AV                       1
+            MILLARD FULLER DR                 1
+            MILLER ST                         1
+            MILTON RD                         1
+            MOBILE DR                         1
+            MOLTON ST                         1
+            MONROE ST                         1
+            MONTERO DR                        1
+            NICROSI ST                        1
+            NORTH PASS RD                     1
+            NORTHERN BLVD                     1
+            OAK AV                            1
+            OCONEE DR                         1
+            PALMETTO ST                       1
+            PARK AV                           1
+            PERCY DR                          1
+            PINEHILL RD                       1
+            POLK ST                           1
+            PRINCESS ANN ST                   1
+            RANDOLPH ST                       1
+            RIDGE AVE                         1
+            RIDGEMONT AVE                     1
+            ROSEDALE DR                       1
+            RYAN ST                           1
+            SALEM DR                          1
+            SANDRA ST                         1
+            SANFORD ST                        1
+            SAYRE ST                          1
+            SOUTHMONT DR                      1
+            SPEIGLE ST                        1
+            ST CHARLES AV                     1
+            STEPHENS ST                       1
+            SUMTER AVE                        1
+            SUWANEE DR                        1
+            TALLAPOOSA ST                     1
+            TEXAS ST                          1
+            TROY ST                           1
+            UPPER WETUMPKA RD                 1
+            WAYNE ST                          1
+            WESTCOTT ST                       1
+            WHITEHALL PKWY                    1
+            WINDSOR AVE                       1
+            WITHERS ST                        1
+            WOODHILL CT                       1
+            WOODLAWN ST                       1
+            WOODWARD AV                       1
+           / CHISHOLM ST                      1
+           / COLISEUM PKWY                    1
+           / FEDERAL RD                       1
+           AVE                                1
+           E  EDGEMONT AV                     1
+           E  FAIRVIEW AVE                    1
+           E  PARK AV                         1
+           E  SIXTH ST                        1
+           EMERSON ST                         1
+           FOREST PARK                        1
+           GUNTER PARK DR                     1
+           HOLT ST  &  CENTRAL ST             1
+           N  GEORGETOWN DR                   1
+           N  GOLDTHWAITE ST                  1
+           N  HOPPER ST                       1
+           N  HULL ST                         1
+           N  LEWIS ST                        1
+           N  PERRY ST                        1
+           NORTH GAP                          1
+           RD                                 1
+           S  HAARDT DR                       1
+           S  HULL ST                         1
+           S  LAWRENCE ST                     1
+           S  LINCOLN TER                     1
+           S  RIPLEY ST                       1
+           ST                                 1
+           ST / HALE ST                       1
+           W  FAIRVIEW AVE                    1
+           W  FIFTH ST                        1
+           W  HANNON ST                       1
+           W  SHAWNEE DR                      1
+Wednesday  W  FAIRVIEW AV                    16
+           N  RIPLEY ST                       8
+            COLISEUM BLVD                     7
+           S  COURT ST                        7
+           S  DECATUR ST                      7
+            MT MEIGS RD                       6
+            PINE ST                           6
+            ROSA L PARKS AV                   6
+            LOCUST ST                         5
+            AARON ST                          4
+            CARTER HILL RD                    4
+            DAY ST                            4
+            GARDENDALE DR                     4
+            GIBSON ST                         4
+            LOWER WETUMPKA RD                 4
+            MULBERRY ST                       4
+            OAK ST                            4
+            PLUM ST                           4
+            WILMINGTON RD                     4
+           W  FAIRVIEW AVE                    4
+            BUFORD ST                         3
+            CALLOWAY ST                       3
+            CONG W L DICKINSON DR             3
+            ELM ST                            3
+            FEDERAL DR                        3
+            GIBBS DR                          3
+            HALL ST                           3
+            HILL ST                           3
+            HUGH ST                           3
+            LEBRON RD                         3
+            MADISON AV                        3
+            MAXWELL BLVD                      3
+            SAYRE ST                          3
+           E  FAIRVIEW AV                     3
+           FINLEY                             3
+           S  PERRY ST                        3
+           S  UNION ST                        3
+            4TH ST                            2
+            ADAMS AV                          2
+            ALEXANDER ST                      2
+            AMOY CT                           2
+            ARTHUR ST                         2
+            BRAGG ST                          2
+            BRIARBROOK DR                     2
+            CAPITOL PKWY CT                   2
+            CHAMPION ST                       2
+            CHASE PARK DR                     2
+            CHISHOLM ST                       2
+            CROUSON ST                        2
+            DESTIN ST                         2
+            EDGAR D NIXON AV                  2
+            ERSKINE ST                        2
+            FAIRGROUND RD                     2
+            GIBBS CIR                         2
+            GILMER AV                         2
+            GLORIA CT                         2
+            HANK WAY                          2
+            HILLDALE DR                       2
+            NORTH GAP LOOP                    2
+            NORTH PASS RD                     2
+            OAKBROOK DR                       2
+            RIGBY ST                          2
+            SHELLY LN                         2
+            SOUTHMONT DR                      2
+            UPPER WETUMPKA RD                 2
+            WELLINGTON RD                     2
+            WEST ST                           2
+            WILLENA AV                        2
+            WINONA AV                         2
+            WOODBROOK DR                      2
+           E  SECOND ST                       2
+           S  CAPITOL PKWY                    2
+           S  HULL ST                         2
+           S  JACKSON ST                      2
+           S  MCDONOUGH ST                    2
+           S PERRY ST                         2
+           ST                                 2
+            &  FAIRGROUND RD                  1
+            &  LOWER WETUMPKA RD              1
+            & E  FIFTH ST                     1
+            2ND ST                            1
+            6TH ST                            1
+            AGNEW ST                          1
+            ALMA DR                           1
+            AMANDA LN                         1
+            ARLINGTON RD                      1
+            AUDUBON RD                        1
+            BARKSDALE ST                      1
+            BELLINGER LN                      1
+            BIBB ST                           1
+            BOULTIER ST                       1
+            BREWTON ST                        1
+            BROADVIEW ST                      1
+            BROCKWAY DR                       1
+            BRYAN ST                          1
+            BUNTING ST                        1
+            CARLISLE ST                       1
+            CASTLEBROOK DR                    1
+            CENTENNIAL WAY                    1
+            CHESTNUT ST                       1
+            CLAY ST                           1
+            CLEVELAND CT                      1
+            CLOVERDALE RD                     1
+            CLOWER ST                         1
+            COLEMAN ST                        1
+            COTTON CT                         1
+            COTTON ST                         1
+            COUNCIL ST                        1
+            COVINGTON ST                      1
+            CREATIVE ST                       1
+            CROSSWAY DR                       1
+            DAY STREET RD                     1
+            DOROTHY ST                        1
+            EASTERN RIDGE CT                  1
+            EDWARD ST                         1
+            EL PASO CT                        1
+            ELM AV                            1
+            EMPIRE RD                         1
+            EMPIRE TER                        1
+            EWELL ST                          1
+            FELDER AV                         1
+            FINLEY AV                         1
+            FLOOD ST                          1
+            FRENCH ST                         1
+            GARLAND DR                        1
+            GASTON AV                         1
+            GENETTA CT                        1
+            GLENMORE RD                       1
+            GRAHAM ST                         1
+            HEATH DR                          1
+            HEUSTESS ST                       1
+            HIGH ST                           1
+            HIGHLAND AV                       1
+            HOWARD ST                         1
+            JAMES AVE                         1
+            JASON CT                          1
+            JOHNSON ST                        1
+            JULIA ST                          1
+            LAKE ST                           1
+            LANIER LN                         1
+            LEXINGTON RD                      1
+            LUCAS DR                          1
+            LUCY ST                           1
+            LYNDLE RD                         1
+            MADISON AVE                       1
+            MANLEY DR                         1
+            MARTHA ST                         1
+            MASTIN LN                         1
+            MICHIGAN AV                       1
+            MICHIGAN AVE                      1
+            MILDRED ST                        1
+            MILTON RD                         1
+            MOBILE RD                         1
+            MOORELAND RD                      1
+            MYLES ST                          1
+            NARROW LANE RD                    1
+            NORMAN BRIDGE RD                  1
+            OAK AV                            1
+            OAKLAND ST                        1
+            OLIVE ST                          1
+            PEACHTREE ST                      1
+            PELZER AV                         1
+            PERCY DR                          1
+            PERSONS ST                        1
+            POPLAR ST                         1
+            POWELL LN                         1
+            RIDGEMONT AV                      1
+            ROYAL CREST DR                    1
+            RYAN ST                           1
+            SHELLY CT                         1
+            SIMPSON ST                        1
+            SPEIGLE ST                        1
+            ST CHARLES AV                     1
+            THOMAS CT                         1
+            TREMONT ST                        1
+            TUGALOO DR                        1
+            VICTOR TULANE CIR                 1
+            VISTA TERRACE DR                  1
+            WADE ST                           1
+            WALKER ST                         1
+            WAYNE ST                          1
+            WESTMORELAND AV                   1
+            WILDBROOK CIR                     1
+            WITHERS ST                        1
+            WOODHILL RD                       1
+            YANCEY AV                         1
+            YARBROUGH ST                      1
+           / BILTMORE AVE                     1
+           / W FAIRVIEW AVE                   1
+           AVENUE L                           1
+           CAPITAL AVE                        1
+           CAPITOL AVE                        1
+           COURT ST  &  ARLINGTON RD          1
+           CRENSHAW PL                        1
+           E  PARK AV                         1
+           E  SIXTH ST                        1
+           E  THIRD ST                        1
+           E  VANDIVER BLVD                   1
+           N  CALIFORNIA ST                   1
+           N  COUNTRY CLUB DR                 1
+           N  DECATUR ST                      1
+           N  LINCOLN TER                     1
+           N  PERRY ST                        1
+           S  FORBES DR                       1
+           S  HOLT ST                         1
+           S  HOPPER ST                       1
+           S  LAWRENCE ST                     1
+           S  LINCOLN TER                     1
+           S  MADISON TER                     1
+           UNIVERSITY DR                      1
+           W  JEFF DAVIS AV                   1
+           W  JEFF DAVIS AVE                  1
+           W  SECOND ST                       1
+           W  VANDIVER BLVD                   1
+Name: StreetName, dtype: int64
